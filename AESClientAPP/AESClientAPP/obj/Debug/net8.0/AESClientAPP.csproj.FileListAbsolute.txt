@@ -1,0 +1,14 @@
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\bin\Debug\net8.0\AESClientAPP.exe
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\bin\Debug\net8.0\AESClientAPP.deps.json
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\bin\Debug\net8.0\AESClientAPP.runtimeconfig.json
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\bin\Debug\net8.0\AESClientAPP.dll
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\bin\Debug\net8.0\AESClientAPP.pdb
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.AssemblyInfoInputs.cache
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.AssemblyInfo.cs
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.csproj.CoreCompileInputs.cache
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.dll
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\refint\AESClientAPP.dll
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.pdb
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\AESClientAPP.genruntimeconfig.cache
+E:\Web Practise\Dot Net\AESClientAPP\AESClientAPP\obj\Debug\net8.0\ref\AESClientAPP.dll

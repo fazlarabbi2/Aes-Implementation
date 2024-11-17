@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Web Practise\\Dot Net\\AESServerAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|e:\\web practise\\dot net\\aesserverapp\\aesserverapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|solutionrelative:aesserverapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|e:\\web practise\\dot net\\aesserverapp\\aesserverapp\\models\\keymanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|solutionrelative:aesserverapp\\models\\keymanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|e:\\web practise\\dot net\\aesserverapp\\aesserverapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|solutionrelative:aesserverapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|e:\\web practise\\dot net\\aesserverapp\\aesserverapp\\models\\aesencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA24AB5-7CCA-4348-B665-B095762CFBE5}|AESServerAPP\\AESServerAPP.csproj|solutionrelative:aesserverapp\\models\\aesencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AESServerAPP\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Controllers\\EmployeesController.cs*",
+              "RelativeToolTip": "AESServerAPP\\Controllers\\EmployeesController.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:26:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AESServerAPP\\Models\\Employee.cs",
+              "ToolTip": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Models\\Employee.cs",
+              "RelativeToolTip": "AESServerAPP\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:25:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AesEncryptionService.cs",
+              "DocumentMoniker": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Models\\AesEncryptionService.cs",
+              "RelativeDocumentMoniker": "AESServerAPP\\Models\\AesEncryptionService.cs",
+              "ToolTip": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Models\\AesEncryptionService.cs",
+              "RelativeToolTip": "AESServerAPP\\Models\\AesEncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:47:55.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyManagementService.cs",
+              "DocumentMoniker": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Models\\KeyManagementService.cs",
+              "RelativeDocumentMoniker": "AESServerAPP\\Models\\KeyManagementService.cs",
+              "ToolTip": "E:\\Web Practise\\Dot Net\\AESServerAPP\\AESServerAPP\\Models\\KeyManagementService.cs",
+              "RelativeToolTip": "AESServerAPP\\Models\\KeyManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:40:57.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
